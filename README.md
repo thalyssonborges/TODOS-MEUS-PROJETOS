@@ -8,3 +8,4 @@ Data: dd/mm/aa | Projeto: Página de Formulário | HTML, CSS -> https://b7web-th
 Data: dd/mm/aa | Projeto: Página do Google | HTML, CSS -> https://b7web-thalyssonborges-paginagoogle.netlify.app/ <br>
 Data: dd/mm/aa | Projeto: Página de Resultados do Google | HTML, CSS, -> https://b7web-thalyssonborges-paginagoogleresultados.netlify.app/ <br>
 Data: 29/03/22 | Projeto: LandingPaGe PetCare | HTML, CSS, BOOTSTRAP -> https://thalyssonborges-frontend-petcare.netlify.app/ <br>
+Data: 19/06/22 | Projeto: Tela Login Instagram | HTML, CSS -> https://thalyssonborges-dio-recriandotelalogininstagram.netlify.app/ <br>
